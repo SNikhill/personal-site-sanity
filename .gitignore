@@ -1,0 +1,5 @@
+# Dependencies
+node_modules/
+
+# Text Editors / IDE(s)
+.idea/
